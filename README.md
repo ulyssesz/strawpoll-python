@@ -6,6 +6,7 @@ Python Wrapper to Automate Making a StrawPoll
 
 Requirements:
 Built on Python 2.7
+
 Uses built-in modules, `requests` and `re` (regex)
 
 
